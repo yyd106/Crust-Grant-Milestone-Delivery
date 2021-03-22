@@ -1,11 +1,11 @@
 # Crust Grant Milestone Delivery
 
-**:loudspeaker: Important:** This repository is only for submitting finished milestones for the [Web3 Foundation Open Grants Program](https://github.com/w3f/Open-Grants-Program). 
+**:loudspeaker: Important:** This repository is only for submitting finished milestones for the [Crust Grants Program](https://github.com/crust/Crust-Grants-Program). 
 
 
 ## Milestone Delivery Process
 
-For each milestone you have reached, go through following process to get corresponding payment.
+For each milestone you have reached, go through following processes to get corresponding payment.
 
 1. **Milestone Delivery:**
    1. [Fork](https://github.com/crust/Grant-Milestone-Delivery/fork) this repository with the **same GitHub account** that you used to submit the application.
