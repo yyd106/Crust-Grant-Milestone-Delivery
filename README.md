@@ -14,7 +14,7 @@ For each milestone you have reached, go through following processes to get corre
    4. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
    5. Once you're done, create a pull request.
 2. **Milestone Review:**
-   1. Crust dev team will issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
+   1. Crust dev team will issue comments and request changes on the pull request. The feedback needs to be resolved before your milestone is accepted.
    2. Crust dev team will merge your pull request to accept the delivery.
 3. **Milestone Payment:**
    1. Payment is made to the CRU ERC20 address specified in the initial application. The exchange rate for CRU depends on the time of payment.
