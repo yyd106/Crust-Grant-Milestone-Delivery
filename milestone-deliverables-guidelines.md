@@ -4,7 +4,7 @@ These are the guidelines to be followed for milestones submitted for evaluation.
 
 ## Submission
 
-For the **Crust Grants** program, please submit your milestones via PR to the [Grant Milestone Delivery repository](https://github.com/crust/Crust-Grant-Milestone-Delivery).
+For the **Crust Grants** program, please submit your milestones via PR to the [Grant Milestone Delivery repository](https://github.com/crustio/Crust-Grant-Milestone-Delivery).
 
 ## Content
 
