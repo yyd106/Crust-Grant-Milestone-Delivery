@@ -2,7 +2,7 @@
 
 > Only the GitHub account, which is responsible for the pull request of the accepted application is allowed to submit milestones. 
 
-**The [invoice form](https://docs.google.com/forms/d/e/1FAIpQLSfxKTRtoMzvqQiBL71YXA6gxl_XSsyNBHEBksFFC2AwWReU1w/viewform?usp=sf_link) has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](milestone-deliverables-guidelines.md).**  
+Before submit this milestone delivery, please make sure: **The [invoice form](https://docs.google.com/forms/d/e/1FAIpQLSfxKTRtoMzvqQiBL71YXA6gxl_XSsyNBHEBksFFC2AwWReU1w/viewform?usp=sf_link) has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](milestone-deliverables-guidelines.md).**  
 
 Please provide `PR Link` and `Milestone Number` at following.
 * **PR Link:** Provide a link to the initial accepted pull request of your application to the [Crust Grants Program repository](https://github.com/crust/Crust-Grants-Program). 
